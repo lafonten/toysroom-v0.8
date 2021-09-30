@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Calendar
+  - Rabbit
+  - Origin-MapPuzzle
+  - MapPuzzle1
+  - MapPuzzle2
+  - MapPuzzle3
+  - MapPuzzle4
+  - Glasses
+  - MapChecker
+  - Pervane
+  - Helikopter
+  - Anahtar1
+  - Anahtar2
+  - Anahtar3
+  - Anahtar4
+  - Anahtar5
+  - Anahtar6
+  - Anahtar7
+  - Anahtar8
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Calendar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
